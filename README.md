@@ -1,5 +1,5 @@
 # Gadget Google
-gadget_google provides a mostly automated way to get URLs from Google search results. These URLs can then be used to enumerate subdomains, endpoints, etc. and be fed into other tools for additional scope discovery. This mostly automated because Google may or may not pick this tool up as a bot. In this case the user will need to solvce the CAPTCHA before the remaining automation can take over.
+gadget_google provides a mostly automated way to get URLs from Google search results. These URLs can then be used to enumerate subdomains, endpoints, etc. and be fed into other tools for additional scope discovery during the information gathering phase of a penetration test, red team engagement or bug bounty. This mostly automated because Google may or may not pick this tool up as a bot. In this case the user will need to solvce the CAPTCHA before the remaining automation can take over.
 
 ##  Install
 ```sh
